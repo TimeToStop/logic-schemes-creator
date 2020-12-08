@@ -2,9 +2,9 @@
 This project is about logic-schemes and their creation and debug.
 
 ## Here 3 related repository:
-- [IDE](https://github.com/TimeToStop/logic-shemes-creator-ui) (this)
+- [IDE](https://github.com/TimeToStop/logic-schemes-creator) (this)
 - [Parser/Generator](https://github.com/TimeToStop/logic-schemes-compiler)
-- [Core](https://github.com/TimeToStop/logic-schemes-creator)
+- [Core](https://github.com/TimeToStop/logic-schemes-lib)
 
 ## Idea of this project
 

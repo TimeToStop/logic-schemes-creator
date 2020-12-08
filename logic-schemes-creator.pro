@@ -25,4 +25,4 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 DISTFILES += \
     .gitignore \
-    readme.mb
+    readme.md
